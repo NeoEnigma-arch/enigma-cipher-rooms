@@ -1,0 +1,119 @@
+================================================================================
+Enigma Cipher Rooms – Datenschutzrichtlinie / Privacy Policy
+Last updated: 2026-08-04
+Support: krayzen@gmx.de
+================================================================================
+
+---------- DEUTSCH ----------
+
+Datenschutzrichtlinie – Enigma Cipher Rooms
+
+Stand: 04.08.2026
+
+
+1. Worum geht es?
+
+Enigma Cipher Rooms ist eine eigenständige Android-App für verschlüsselten
+Gruppenchat (Rooms). Verschlüsselung und Entschlüsselung laufen nur
+auf deinem Gerät.
+
+
+2. Was wir NICHT erheben
+
+• Keine Benutzerkonten
+• Kein Tracking, keine Werbung, keine Analyse-Tools des Entwicklers
+• Keine Crash-Telemetrie an den Entwickler
+• Passwörter werden nie hochgeladen
+• Klartext-Nachrichten werden nie an den Entwickler gesendet
+
+
+3. Chat-Relay (bei Nutzung des Chats)
+
+Wenn du den Chat nutzt, verbindet sich die App mit einem WebSocket-Relay
+(Adresse in der App-Konfiguration). An den Relay gehen nur:
+
+• verschlüsselte Nachrichteninhalte (Ciphertext)
+• Anzeigename (Nickname)
+• Room-Name
+• technische Verbindungsdaten, die für die Zustellung nötig sind
+
+Der Relay ist so ausgelegt, dass er keinen Klartext erhält.
+Room-Verläufe sind flüchtig und können gelöscht werden, wenn ein Room leer ist.
+
+Ohne Chat-Nutzung findet keine Verbindung zum Relay statt.
+
+
+4. Lokale Speicherung
+
+Auf deinem Gerät können z. B. Nickname und zuletzt genutzter Room gespeichert
+werden. Das Passwort gibst du in der Oberfläche ein; behandle dein Gerät
+als vertrauenswürdig.
+
+
+5. Berechtigungen
+
+• Internet – Verbindung zum Chat-Relay
+• Netzwerkstatus – optional für Verbindungsanzeige
+
+
+6. Datenweitergabe / Verkauf
+
+Es werden keine personenbezogenen Daten durch den Entwickler verkauft oder
+für Werbung genutzt. Es gibt keine Entwickler-Cloud mit deinen Chat-Inhalten.
+
+
+7. Kontakt
+
+Fragen zum Datenschutz: krayzen@gmx.de
+
+
+---------- ENGLISH ----------
+
+Privacy Policy – Enigma Cipher Rooms
+
+Last updated: 2026-08-04
+
+
+1. What this app does
+
+Enigma Cipher Rooms is a standalone Android app for encrypted group chat rooms.
+Encryption and decryption run only on your device.
+
+
+2. What we do NOT collect
+
+• No user accounts
+• No developer tracking, ads, or analytics
+• No crash telemetry to the developer
+• Passwords are never uploaded
+• Plaintext messages are never sent to the developer
+
+
+3. Chat relay (when you use chat)
+
+The app connects to a WebSocket relay (configured address). The relay receives:
+
+• encrypted message content (ciphertext)
+• display name (nickname)
+• room name
+• technical connection data needed for delivery
+
+The relay is designed not to receive plaintext.
+Room history is ephemeral and may be cleared when a room is empty.
+
+
+4. Local storage
+
+Nickname and last room may be stored on device for convenience.
+Treat your device as trusted regarding the password field.
+
+
+5. Permissions
+
+• Internet – chat relay connection
+• Network state – connection status
+
+
+6. Contact
+
+Privacy questions: krayzen@gmx.de
